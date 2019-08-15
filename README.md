@@ -2,6 +2,8 @@
 
 NROM famicom cartridge board with 32Kb PRG and 8Kb CHR 
 
+![nrom](nrom.png)
+
 ## famicom pinout
 ```
              ┌───────┐
